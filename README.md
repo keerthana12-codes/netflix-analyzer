@@ -32,6 +32,8 @@ netflix-analyzer/
 ├── analyzer.py
 ├── netflix_titles.csv
 ├── README.md
+├── requirements.txt
+├── .gitignore
 │
 └── charts/
     ├── movies_vs_tv_shows.png
@@ -42,6 +44,7 @@ netflix-analyzer/
     ├── movie_duration.png
     ├── top_10_directors.png
     └── movies_vs_tv_shows_by_year.png
+    
 📊 Visualizations
 
 Movies vs TV Shows
