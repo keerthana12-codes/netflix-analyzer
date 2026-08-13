@@ -41,6 +41,11 @@ netflix-analyzer/
     ├── top_10_countries.png
     └── ...
 
+<<<<<<< HEAD
+=======
+
+    
+>>>>>>> 62985ad08a65c655f19669aac6c60581d7968140
 📊 Visualizations
 
 Movies vs TV Shows
