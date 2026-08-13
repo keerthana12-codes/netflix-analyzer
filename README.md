@@ -27,6 +27,7 @@ Jupyter/VS Code
 Git & GitHub
 
 📂 Project Structure
+
 netflix-analyzer/
 │
 ├── analyzer.py
@@ -38,12 +39,9 @@ netflix-analyzer/
 └── charts/
     ├── movies_vs_tv_shows.png
     ├── top_10_countries.png
-    ├── top_10_genres.png
-    ├── content_by_year.png
-    ├── netflix_ratings.png
-    ├── movie_duration.png
-    ├── top_10_directors.png
-    └── movies_vs_tv_shows_by_year.png
+    └── ...
+
+
     
 📊 Visualizations
 
