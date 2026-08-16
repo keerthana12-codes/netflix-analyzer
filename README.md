@@ -138,10 +138,6 @@ Compares the growth and distribution of Movies and TV Shows over time.
 
 ![Top 10 Genres](charts/top_10_genres.png)
 
-### 📈 Content by Release Year
-
-![Content by Release Year](charts/content_by_release_year.png)
-
 ### ⭐ Netflix Ratings
 
 ![Netflix Ratings](charts/netflix_ratings.png)
